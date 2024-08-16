@@ -1,12 +1,12 @@
 # Variational Generative Adversarial Network with a Dual-Function Discriminator for Semantic Image Synthesis
 
-Official PyTorch implementation of the BMVC  2022 paper "Dual Pyramid Generative Adversarial Networks for Semantic Image Synthesis
+Official PyTorch implementation of the PR 2024 paper "Variational Generative Adversarial Network with a Dual-Function Discriminator for Semantic Image Synthesis
 ". The code allows the users to
 reproduce and extend the results reported in the study. Please cite the paper when reporting, reproducing or extending the results.
 
 # Overview
 
-This repository implements the DP_GAN model, which generates realistic looking images from semantic label maps. In addition, many different images can be generated from any given label map by simply resampling a noise vector (first two rows of the figure below). The model also allows to just resample parts of the image (see the last two rows of the figure below). Check out the paper for details, as well as the appendix, which contains many additional examples.
+This repository implements the VD_GAN model, which generates realistic looking images from semantic label maps. In addition, many different images can be generated from any given label map by simply resampling a noise vector (first two rows of the figure below). The model also allows to just resample parts of the image (see the last two rows of the figure below). Check out the paper for details, as well as the appendix, which contains many additional examples.
 
 
 ## Setup

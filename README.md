@@ -1,4 +1,4 @@
-# VD-GAN: Variational generative adversarial network with a Dual-function discriminator for semantic image synthesis
+# Variational Generative Adversarial Network with a Dual-Function Discriminator for Semantic Image Synthesis
 
 Official PyTorch implementation of the BMVC  2022 paper "Dual Pyramid Generative Adversarial Networks for Semantic Image Synthesis
 ". The code allows the users to

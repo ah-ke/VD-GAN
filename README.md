@@ -1,7 +1,6 @@
-# Variational Generative Adversarial Network with a Dual-Function Discriminator for Semantic Image Synthesis
+# Dual-Function Discriminator in Variational GANs for Semantic Image Synthesis
 
-Official PyTorch implementation of the PR 2024 paper "Variational Generative Adversarial Network with a Dual-Function Discriminator for Semantic Image Synthesis
-". The code allows the users to
+Official PyTorch implementation of the PR 2024 paper "Dual-Function Discriminator in Variational GANs for Semantic Image Synthesis". The code allows the users to
 reproduce and extend the results reported in the study. Please cite the paper when reporting, reproducing or extending the results.
 
 # Overview
